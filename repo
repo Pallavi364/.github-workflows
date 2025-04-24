@@ -1,0 +1,9 @@
+/semantic-model
+ ├── model.bim
+ ├── deploy/
+ │   ├── deploy.ps1
+ │   ├── dev-params.json
+ │   ├── prod-params.json
+ ├── pipelines/
+ │   ├── ci-pipeline.yml
+ │   └── cd-pipeline.yml
